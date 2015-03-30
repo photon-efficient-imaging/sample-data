@@ -1,4 +1,4 @@
-Sample single-photon imaging data collected for the First-Photon Imaging project
+Sample fixed-well time single-photon imaging data collected for the First-Photon Imaging project
 
 @article{kirmani2014first,
   title={First-photon imaging},
